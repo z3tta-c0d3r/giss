@@ -31,3 +31,12 @@ build/
 
 ### VS Code ###
 .vscode/
+._.DS_Store
+giss.iml
+giss.iml
+HELP.md
+mvnw
+mvnw.cmd
+.mvn/
+.mvn/
+.idea/
